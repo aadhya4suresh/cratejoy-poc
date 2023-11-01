@@ -1,0 +1,11 @@
+2023-11-01T16:09:17.346Z: Test execution started....
+2023-11-01T16:09:27.564Z: cratejoy applicaiton is launched successfully
+2023-11-01T16:09:28.022Z: logo is verified
+2023-11-01T16:09:31.715Z: navigated to best seller page successfully
+2023-11-01T16:09:35.462Z: 1st product selected and product details page is opened successfully
+2023-11-01T16:09:39.034Z: product price is captured from product details page
+2023-11-01T16:09:40.191Z: product is added to the cart
+2023-11-01T16:09:42.130Z: product price on details page is matched with cart page price
+2023-11-01T16:09:46.515Z: checkout page is opened successfully
+2023-11-01T16:09:46.539Z: product price on cart page is matched with checkout page price
+2023-11-01T16:09:46.539Z: Test execution ended!
